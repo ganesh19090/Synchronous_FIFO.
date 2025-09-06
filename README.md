@@ -17,13 +17,13 @@ A clean and modular Verilog implementation of a **Synchronous FIFO (First-In-Fir
 ### Directory Structure
 Synchronous_FIFO/
 ── src/ # RTL source files
- └── syn_fifo.v/n
+ └── syn_fifo.v
  
 ── tb/ # Testbench
- └── tb.v/n
+ └── tb.v
  
 ── sim/ # Simulation script
- └── run.do/n
+ └── run.do
  
 ── waveform.png # (Optional) Simulation waveform image
 └── README.md # Project overview and instructions
