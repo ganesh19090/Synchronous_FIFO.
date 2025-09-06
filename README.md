@@ -15,6 +15,7 @@ A clean and modular Verilog implementation of a **Synchronous FIFO (First-In-Fir
 ---
 
 ### Directory Structure
+Synchronous_FIFO/
 ├── src/ # RTL source files
 │ └── syn_fifo.v/n
 ├── tb/ # Testbench
@@ -23,8 +24,6 @@ A clean and modular Verilog implementation of a **Synchronous FIFO (First-In-Fir
 │ └── run.do
 ├── waveform.png # (Optional) Simulation waveform image
 └── README.md # Project overview and instructions
-
----
 
 
 ---
